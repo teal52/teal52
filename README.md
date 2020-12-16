@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![teal52's github stats](https://github-readme-stats.vercel.app/api?username=teal52&show_icons=true&theme=radical)
+![teal52's github stats](https://github-readme-stats.vercel.app/api?username=teal52&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teal52&layout=compact)](https://github.com/teal52/github-readme-stats)
