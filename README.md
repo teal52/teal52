@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![teal52's github stats](https://github-readme-stats.vercel.app/api?username=teal52&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teal52)](https://github.com/teal52/github-readme-stats)
